@@ -6,7 +6,7 @@ This is a presentation about redux toolkit. I will show you the idea behind redu
 
 The code above, is a simple example of how you are suppose to use redux.
 
-[Download the PDF](/Redux%20_%20Redux%20Toolkit.pdf)
+[check the PDF](/Redux%20_%20Redux%20Toolkit.pdf)
 
 ## If you want to check what the code does you can check this site:
 
